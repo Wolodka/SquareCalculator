@@ -1,5 +1,0 @@
-E:\TrashBin\SquareCalculator\SquareCalculator\obj\Debug\SquareCalculator.csprojResolveAssemblyReference.cache
-E:\TrashBin\SquareCalculator\SquareCalculator\bin\Debug\SquareCalculator.dll
-E:\TrashBin\SquareCalculator\SquareCalculator\bin\Debug\SquareCalculator.pdb
-E:\TrashBin\SquareCalculator\SquareCalculator\obj\Debug\SquareCalculator.dll
-E:\TrashBin\SquareCalculator\SquareCalculator\obj\Debug\SquareCalculator.pdb
